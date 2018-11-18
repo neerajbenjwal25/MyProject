@@ -1,0 +1,11 @@
+#ignore all logs
+*.log
+
+*.[oa]
+*~
+*.a
+
+
+!lib.a
+
+demo.txt.txt
